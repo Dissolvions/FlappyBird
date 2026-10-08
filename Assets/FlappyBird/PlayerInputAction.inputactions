@@ -1,0 +1,36 @@
+{
+    "version": 1,
+    "name": "PlayerInputAction",
+    "maps": [
+        {
+            "name": "GamePlay",
+            "id": "ea3c05e7-965a-403b-b4b6-e5dbad1d1738",
+            "actions": [
+                {
+                    "name": "Space",
+                    "type": "Button",
+                    "id": "3a969123-0c5b-421c-99bf-7d7518f2fed6",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "4d919875-0a34-41e7-a784-014ed87702e8",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Space",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
